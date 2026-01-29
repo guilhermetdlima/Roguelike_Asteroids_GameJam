@@ -1,0 +1,64 @@
+A fazer (maior prioridade pra cima):
+-Adicionar modelo para o player, tiros, inimigos
+-Sons 
+-Adicionar inimigos (mais variedade. Variedades: segue o jogador, atira, rapido, cobra, cobra que atira (boss 1), teleporta e atira, pequeno rapido e movimento com pausas)
+
+Feito:
+-Adicionar loja/upgrades
+-Implementar dificuldades
+-Implementar morte
+-Adicionar fundo
+-Adicionar tela de pontuação (Gravar em arquivo txt ao morrer, ler arquivo quando abrir tela de pontuacao)
+-Adicionar niveis
+Adicionado movimentação do jogador
+Adicionado inimigo base
+Adicionado jogador
+Movimentação do inimigo (spawnar nas bordas e mover para o centro/perto do centro)
+Adicionar tiros
+Adicionar colisão tiros/inimigo
+Adicionar colisão inimigo/jogador
+Adicionar dinheiro
+Adicionar o """"loop"""" dos asteroides na tela
+Adicionar menu inicial
+Melhorar o movimento (aceleração e desaceleração)
+-Adicionar aleatoriedade para inimigos (Velocidade, tamanho)
+
+Items:
+-Item Lendario: (Unico) uma nave menor que te segue, repetindo seus ataques após um delay
+-Item Raro: A cada 5 segundos, atire para 4 lados. Caso pegue 2 items, aumente para 8 lados. 
+-Item Raro: Shotgun: Adiciona 3 mais tiros, aumenta o spread
+-Item Lendario: Brimstone (Unico): Transforma de tiros em um laser, aumenta cooldown consideravelmente, aumenta dano. Dano continuo em area.
+-Item Incomum: Rubber Duck: Tiros ricocheteiam em paredes e inimigos, mas diminuem o dano levemente.
+-Item Raro: Explosive Shot: Tiros explodem em area, diminui o cooldown.
+-Item Lendario: Bubble Wand (Unico): Tiros são redondos e maiores, ficam parados por x segundos, depois explodem e viram alguns tiros.
+-Item Incomum: 20% de chance de atirar para traz.
+-Item Comum: chance extra de dano critico.
+-Item Comum: Aumenta dano.
+-Item incomum: Aumenta dano levemente e diminui cooldown levemente.
+-Item comum: Aumenta velocidade do jogador.
+-Item incomum: Jogador deixa um rastro ao se mover, que causa dano baixo.
+-Item lendario: (Unico) Tiros seguem inimigos.
+-Item comum: Aumenta a velocidade de tiros.
+-Item Incomum: Tiros congelam inimigos por x segundos, reduzindo sua velocidade drasticamente.
+-Item Incomum: Tiros aplicam veneno nos inimigos, causando dano ao longo do tempo.
+-Item Raro: Aumenta levemente a chance de encontrar itens raros na loja.
+-Item Raro: Chain Lightning: Tiros atingem inimigos próximos com raios, causando dano em cadeia.
+-Item Lendario: Black Hole (Único): Tiros criam buracos negros que puxam inimigos próximos e causam dano contínuo.
+-Item Incomum: Aumenta o dano e a velocidade de ataque quando a vida do jogador está abaixo de 30%.
+-Item Raro: Cria um escudo que bloqueia o próximo ataque a cada x segundos.
+-Item Comum: Reduz levemente o cooldown entre os tiros.
+-Item Incomum: +1 Pierce.
+-Item Lendario:  (Único) Tiros deixam fogo onde acertam, dando dano continuo em inimigos
+-Item Incomum: Aumenta a velocidade de movimento temporariamente após derrotar um inimigo.
+-Item Lendario: (Único) Bounces funcionam em inimigos
+
+
+
+
+
+
+
+
+BOSS TEM MUITA VIDA
+MINIONS DO BOSS DAO MUITA SCORE
+SCORE PERDIDA POR TEMPO É MUITO ALTA

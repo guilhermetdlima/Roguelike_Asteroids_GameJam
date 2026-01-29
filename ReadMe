@@ -1,0 +1,21 @@
+Ideia do jogo:
+-Roguelike (não lite, ou seja, upgrades não afetam outras runs).
+-Jogo será dividido em fases, começando da mais facil e indo para mais dificieis. Dificuldade das fases é baseada na quantidade
+e tipo de inimigo, sendo que dificuldades extras podem ser escolhidas no menu, alterando velocidade base de inimigos, etc;
+-A cada x fases, o jogador será levado a uma loja, onde ele poderá escolher upgrades de diversos tipos e raridades, sendo eles comuns, 
+como aumentar o "firerate", aumentar a vida, até upgrades mais complexos, como aumentar a quantidade de tiros, adicionar um efeito em
+area nos tiros, etc. O jogador podera também trocar os itens mostrados na loja, gastando um pouco do seu dinheiro (aumentado cada troca),
+ou também podera comprar um item aleatorio, caso nenhuma opção o agrade.
+-Sistema de achievments e unlocks (NÃO NECESSARIO PARA O PORTAS ABERTAS), onde o jogador, ao completar algo dentro do jogo (um exemplo,
+vencer o jogo pela primeira vez), irá liberar um novo modo de jogo (Por exemplo, começar com menos vida e mais velocidade, ganhar mais 
+dinheiro passivamente, ter mais sorte nas lojas, etc)
+-Inimigos com habilidades diferentes, como por exemplo, um mais simples, azul, que se diferencia por ser menor e mais rapido, um roxo,
+que segue o jogador, porém é lento, ou um verde, que atira no jogador, porém tem pouca vida.
+-Inimigos dropam dinheiro, que será usado na loja. O jogador podera escolher entre comprar algo, "rodar" a loja ou guardar o dinheiro,
+ganhando interesse cada fase.
+
+
+Inspiração:
+O sistema de loja foi inspirado no jogo SNKRX e Balatro, ambos similares em mecanicas.
+O sistema de upgrades foi inspirado em The Binding of Isaac, conhecido por ter um sistema complexo de sinergias entre itens.
+

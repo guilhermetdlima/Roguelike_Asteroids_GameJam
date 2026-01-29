@@ -1,0 +1,8 @@
+Caso o jogo seja atualizado, use os seguintes comandos para criar novamente o executável:
+
+pip install pyinstaller
+
+pyinstaller --onefile main.py
+
+
+ATUALIZAR A PASTA IMAGENS E A PASTA SOUNDS SE NECESSARIO!!!!!!!!!!
