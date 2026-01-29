@@ -1,4 +1,6 @@
-Ideia do jogo:
+Jogo estilo roguelike feito para a game jam da minha faculdade, feito em python usando pygames.
+
+Ideia original do jogo:
 -Roguelike (não lite, ou seja, upgrades não afetam outras runs).
 -Jogo será dividido em fases, começando da mais facil e indo para mais dificieis. Dificuldade das fases é baseada na quantidade
 e tipo de inimigo, sendo que dificuldades extras podem ser escolhidas no menu, alterando velocidade base de inimigos, etc;
